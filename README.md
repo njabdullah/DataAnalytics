@@ -5,5 +5,5 @@ This repository contains formal and informal datasets that I have analyzed to ad
 ---
 
 ## Supermarket Sales
-Project : <a href=https://github.com/njabdullah/DataAnalytics/tree/main/SupermarketSales> Supermarket Sales Analyze </a>  
+Project : <a href="https://github.com/njabdullah/DataAnalytics/tree/main/SupermarketSales" target="_blank"> Supermarket Sales Analyze </a>  
 Dataset : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
