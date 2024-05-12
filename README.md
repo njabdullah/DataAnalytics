@@ -9,5 +9,5 @@ Project : <a href="https://github.com/njabdullah/DataAnalytics/tree/main/Superma
 Dataset : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 ## Indonesian Poverty
-Project : <a href="https://github.com/njabdullah/DataAnalytics/tree/main/SupermarketSales" target="_blank"> Indonesian Poverty Analyze </a>
+Project : <a href="https://github.com/njabdullah/DataAnalytics/tree/main/IndonesianPoverty" target="_blank"> Indonesian Poverty Analyze </a>  
 Tableu  : <a href="https://public.tableau.com/views/PovertyRateIndonesia2022/PovertyRateIndonesia2022?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"> Tableu Public Indonesian Poverty </a>
